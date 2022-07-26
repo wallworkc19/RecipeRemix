@@ -1,0 +1,19 @@
+{
+  "name": "reciperemix",
+  "version": "1.0.0",
+  "description": "A web application that allows users to input diet restrictions, food preferences, and current foods they have to produce a list of favorable recipes.",
+  "main": "gulpfile.js",
+  "devDependencies": {
+    "autoprefixer": "^10.4.2",
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-postcss": "^9.0.1",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^5.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-terser": "^2.1.0",
+    "npm": "^8.4.1",
+    "sass": "^1.26.5"
+  }
+}

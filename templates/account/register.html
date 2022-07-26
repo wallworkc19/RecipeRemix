@@ -1,0 +1,8 @@
+{% extends '_partials/_base.html' %}
+{% block title %}
+    Recipe Remix | Register
+{% endblock title %}
+{% block body %}
+    {% include '_partials/_login_signup.html' with submit_label="Register" form_submit_path="account:register" %}
+{% endblock body %}
+

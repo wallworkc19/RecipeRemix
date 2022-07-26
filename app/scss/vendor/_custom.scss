@@ -1,0 +1,29 @@
+.account-background {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 0;
+  width: 100vw;
+  height: 100vh;
+  background-image: url("https://images.pexels.com/photos/616401/pexels-photo-616401.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.form-background-fill {
+  background: white;
+}
+
+.btn-primary--custom {
+  width: 50%;
+}
+
+.btn-account-action a {
+  text-decoration: none;
+  color: white;
+}
+
+.btn-outline-light.btn-account-action:hover a {
+  color: black;
+}
